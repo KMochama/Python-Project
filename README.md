@@ -96,58 +96,12 @@ Customer churn is a critical metric for any business, especially in banking, tel
 
 ---
 
-## 📊 Visualizations
-![Visualization 1](visual_1.png)
-![Visualization 2](visual_2.png)
-![Visualization 3](visual_3.png)
-![Visualization 4](visual_4.png)
-![Visualization 5](visual_5.png)
-![Visualization 6](visual_6.png)
-![Visualization 7](visual_7.png)
-![Visualization 8](visual_8.png)
-![Visualization 9](visual_9.png)
-![Visualization 10](visual_10.png)
-![Visualization 11](visual_11.png)
-![Visualization 12](visual_12.png)
-![Visualization 13](visual_13.png)
-![Visualization 14](visual_14.png)
-![Visualization 15](visual_15.png)
-![Visualization 16](visual_16.png)
-![Visualization 17](visual_17.png)
-![Visualization 18](visual_18.png)
-![Visualization 19](visual_19.png)
-![Visualization 20](visual_20.png)
-
----
-
 ## 💡 Business Recommendations
 
 - Monitor and engage high-balance, short-tenure customers early
 - Incentivize long-term engagement via loyalty programs
 - Use churn prediction scores to prioritize customer service resources
 - Launch retention campaigns targeting high-risk segments
-
----
-
-## 📁 Project Structure
-
-```
-Customer_Churn_Analysis/
-│
-├── Customer Churn Analysis.ipynb     # Full end-to-end notebook
-├── customer_data.csv                 # Dataset used
-├── model.pkl                         # Saved model (optional)
-└── README.md                         # Project documentation
-```
-
----
-
-## 📌 Future Improvements
-
-- Deploy model using a Flask/Django web app
-- Automate model monitoring using ML pipelines (e.g., MLflow)
-- Include more demographic and behavioral data
-- Run SHAP analysis for model explainability
 
 ---
 
