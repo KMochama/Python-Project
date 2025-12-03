@@ -1,7 +1,7 @@
 
 # 📉 Customer Churn Prediction Using Machine Learning | End-to-End Python Project
 
-In this project, we develop a machine learning model to **predict customer churn** using real-world Telcom dataset. This end-to-end project walks through the entire ML pipeline — from **data preprocessing** and **feature engineering** to **model training**, **evaluation**, and **business recommendations**.
+In this project, we develop a machine learning model to **predict customer churn** using real-world Bank dataset. This end-to-end project walks through the entire ML pipeline — from **data preprocessing** and **feature engineering** to **model training**, **evaluation**, and **business recommendations**.
 
 ---
 
